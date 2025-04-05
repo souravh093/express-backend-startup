@@ -131,12 +131,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## About the Author
-Hi! I'm Sourav Hossain, a passionate software developer with expertise in building scalable backend systems using modern technologies like Node.js, Express.js, and TypeScript. I love creating tools and templates that make development faster and more efficient.
+Hi! I'm Sourave Halder, a passionate software developer with expertise in building scalable backend systems using modern technologies like Node.js, Express.js, and TypeScript. I love creating tools and templates that make development faster and more efficient.
 
 If you find this project helpful, feel free to connect with me:
 
 - GitHub: [souravh093](https://github.com/souravh093)
-- LinkedIn: [Sourav Hossain](https://www.linkedin.com/in/sourave-halder)
+- LinkedIn: [Sourave Halder](https://www.linkedin.com/in/sourave-halder)
 
 ## Support This Project
 If you like this project, consider giving it a ⭐ on GitHub! Your support helps me create more open-source tools and templates for the developer community.
